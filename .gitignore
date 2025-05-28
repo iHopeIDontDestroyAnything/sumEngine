@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+
+# Created by cmake
+include/
+bin/
+build/
+CMakeFiles/
+compile_commands.json
+CMakeCache*
+*.cmake
+Makefile
+run
+
+
