@@ -1,0 +1,3 @@
+/home/jakub/projects/c++/Jajo/JajoEngine/CMakeFiles/Jajo.dir
+/home/jakub/projects/c++/Jajo/JajoEngine/CMakeFiles/edit_cache.dir
+/home/jakub/projects/c++/Jajo/JajoEngine/CMakeFiles/rebuild_cache.dir

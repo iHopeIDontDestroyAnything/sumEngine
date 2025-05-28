@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jakub/projects/c++/Jajo/JajoEngine",
+  "command": "/usr/bin/c++ -DJajo_EXPORTS -I/home/jakub/projects/c++/Jajo/JajoEngine/include -fPIC -o CMakeFiles/Jajo.dir/src/Jajo.cpp.o -c /home/jakub/projects/c++/Jajo/JajoEngine/src/Jajo.cpp",
+  "file": "/home/jakub/projects/c++/Jajo/JajoEngine/src/Jajo.cpp",
+  "output": "CMakeFiles/Jajo.dir/src/Jajo.cpp.o"
+}
+]
